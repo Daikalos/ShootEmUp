@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="myShootEmUp.Enemies.TankBoss" Collapsed="true">
+    <Position X="26.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAACiAAACwAGIEQABSASAAAgAAAACAAijAAAAAA=</HashCode>
+      <FileName>Enemies\TankBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Enemies.EnemyBullet" Collapsed="true">
+    <Position X="24.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgACACAAACACwQAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Enemies\EnemyBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.BaseEnemy" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgIAAAAAAgACACACACgSwQAAAAAAAAACAABAIAA=</HashCode>
+      <FileName>Enemies\Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.BasicEnemy" Collapsed="true">
+    <Position X="0.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAKAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Enemies\Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.ShootingEnemy" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAACAABAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Enemies\Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Spikeball" Collapsed="true">
+    <Position X="5.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABgAAAAAAAAAAAAAAABAAAAACAAAAAAA=</HashCode>
+      <FileName>Enemies\Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Yeti" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAACAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Enemies\Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Game" Collapsed="true">
+    <Position X="26.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EZ/ZvezwbcFm36adrjsdNdq4b+ZHiTbs/luy1FdUBvc=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Backgrounds" Collapsed="true">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAACACAABIAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Other\Backgrounds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Scrolling" Collapsed="true">
+    <Position X="10.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Other\Backgrounds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Block" Collapsed="true">
+    <Position X="22.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAQAAIAAAgACAAAAACACwRAAAACAEAIEAAAAIBI=</HashCode>
+      <FileName>Other\Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.HitBox" Collapsed="true">
+    <Position X="21" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Other\HitBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Player" Collapsed="true">
+    <Position X="6.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAQAQIAAAACgACAAAQACIb7QAFABKAAAAGACAAKAA=</HashCode>
+      <FileName>Player\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Player1" Collapsed="true">
+    <Position X="5.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAggABAAQAAAAAAAIAAAAAAACACAAIAA=</HashCode>
+      <FileName>Player\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Player2" Collapsed="true">
+    <Position X="7.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAogAJAAQAAAAAIAIQAAEAQACACAAIAI=</HashCode>
+      <FileName>Player\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.PlayerAbility" Collapsed="true">
+    <Position X="1.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgACAAAAACASwQAAAAAAAAACAAAAIAA=</HashCode>
+      <FileName>Player\PlayerAbility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Grenade" Collapsed="true">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAIABAgAAAIAAABAAAAAAABAAEAACAAAAAAA=</HashCode>
+      <FileName>Player\PlayerAbility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Missile" Collapsed="true">
+    <Position X="2.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAgAEAIAAEBAAAAAAAAAAEAACAAAAAAA=</HashCode>
+      <FileName>Player\PlayerAbility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.PlayerBullet" Collapsed="true">
+    <Position X="22.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABAAAAgACAAAAACAAwAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Player\PlayerBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Program" Collapsed="true">
+    <Position X="26.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.LevelSettings" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQABAAAAAAAIgAEBAAAACACwQAIAAIAAAACIABgICA=</HashCode>
+      <FileName>Menu\LevelSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.BasicEnemyStats" Collapsed="true">
+    <Position X="14.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\LevelSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.ShootingEnemyStats" Collapsed="true">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\LevelSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.SpikeballEnemyStats" Collapsed="true">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\LevelSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.YetiEnemyStats" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\LevelSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.BlockSpawnRate" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\LevelSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.PowerupSpawnRate" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\LevelSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.SaveLevelSettings" Collapsed="true">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAgAAIAAAAAAAAAAAAIAAAAQCAAAAAAA=</HashCode>
+      <FileName>Menu\LevelSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.LoadLevelSettings" Collapsed="true">
+    <Position X="12.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\LevelSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.MenuButtons" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAACACwQAAAAAAAAACAAAAIAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.MenuButtonPlay" Collapsed="true">
+    <Position X="28.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.MenuButtonSelectLevels" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.ChangeLevelSettings" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.ExitButton" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.ReturnButton" Collapsed="true">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.SaveButton" Collapsed="true">
+    <Position X="19.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAgAAIAAAAAAAAAAAAIAAAAQCAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.LoadButton" Collapsed="true">
+    <Position X="24.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.SettingsButton" Collapsed="true">
+    <Position X="26.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.MusicVolumeSlider" Collapsed="true">
+    <Position X="31" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAEACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.SoundEffectVolumeSlider" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAEACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.SelectCharacter1" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.SelectCharacter2" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.SelectLevel01" Collapsed="true">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.SelectLevel02" Collapsed="true">
+    <Position X="22" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Menu.SaveFile" Collapsed="true">
+    <Position X="21" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAgACAAAAACACwQAAgAAAAEAAAAAAIAA=</HashCode>
+      <FileName>Menu\SaveFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Other.Animation" Collapsed="true">
+    <Position X="21" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAABCAAgAAAAAIAAAAAABAAAAACAAIAAAAABE=</HashCode>
+      <FileName>Other\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Other.BloodParticle" Collapsed="true">
+    <Position X="24.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgACAIAAACASwQAAABAAAAAAAAAAIAA=</HashCode>
+      <FileName>Other\BloodParticle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Other.Boulder" Collapsed="true">
+    <Position X="22.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABAABgAAAAAQACAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Other\Boulder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShootEmUp.Other.Powerup" Collapsed="true">
+    <Position X="24.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAgACAAAAACAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Other\Powerup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
